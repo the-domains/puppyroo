@@ -1,0 +1,28 @@
+name: Puppyroo
+favicon: null
+layout_spectrum: 0.10246559046208858
+typography_spectrum: 0.45126724033616483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9651836762204766
+  lightness: 0.8497851325664669
+  saturation: 0.24828576669096947
+  rhythmicContrast: 0.9798457804135978
+purpose: []
